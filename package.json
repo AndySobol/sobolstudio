@@ -1,0 +1,21 @@
+{
+  "name": "sobolstudio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@divriots/style-dictionary-to-figma": "^0.4.0",
+    "@tokens-studio/sd-transforms": "^0.4.4",
+    "chroma-js": "^2.4.2",
+    "colorjs.io": "^0.4.3",
+    "gulp": "^4.0.2",
+    "node-sass": "^8.0.0",
+    "style-dictionary": "^3.7.2",
+    "token-transformer": "^0.0.30"
+  }
+}
