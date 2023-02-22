@@ -1,5 +1,5 @@
 {
-	"other":{
+	"global":{
 		"hue":{
 			"blue":{
 				"value":"240",
@@ -27,550 +27,549 @@
 				"value":"0.5",
 				"type":"other"
 			}
-		}
-	},
-
-	"color":{
-		"blue":{
-			"metodHSL":{
-				"000":{
-					"value":"$color.blue.metodHSL.010",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"hsl"
+		},
+		"color":{
+			"blue":{
+				"metodHSL":{
+					"000":{
+						"value":"$color.blue.metodHSL.010",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"hsl"
+								}
+							}
+						}
+					},
+					"010":{
+						"value":"$color.blue.metodHSL.020",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"hsl"
+								}
+							}
+						}
+					},
+					"020":{
+						"value":"$color.blue.metodHSL.030",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"hsl"
+								}
+							}
+						}
+					},
+					"030":{
+						"value":"$color.blue.metodHSL.040",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"hsl"
+								}
+							}
+						}
+					},
+					"040":{
+						"value":"$color.blue.metodHSL.050",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"hsl"
+								}
+							}
+						}
+					},
+					"050":{
+						"value":"hsla($other.hue.blue, 56%, 56%, 1)",
+						"type":"color"
+					},
+					"060":{
+						"value":"$color.blue.metodHSL.050",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"hsl"
+								}
+							}
+						}
+					},
+					"070":{
+						"value":"$color.blue.metodHSL.060",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"hsl"
+								}
+							}
+						}
+					},
+					"080":{
+						"value":"$color.blue.metodHSL.070",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"hsl"
+								}
+							}
+						}
+					},
+					"090":{
+						"value":"$color.blue.metodHSL.080",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"hsl"
+								}
+							}
+						}
+					},
+					"100":{
+						"value":"$color.blue.metodHSL.090",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"hsl"
+								}
 							}
 						}
 					}
 				},
-				"010":{
-					"value":"$color.blue.metodHSL.020",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"hsl"
+				"metodLCH":{
+					"000":{
+						"value":"$color.blue.metodHSL.010",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"lch"
+								}
+							}
+						}
+					},
+					"010":{
+						"value":"$color.blue.metodHSL.020",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"lch"
+								}
+							}
+						}
+					},
+					"020":{
+						"value":"$color.blue.metodHSL.030",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"lch"
+								}
+							}
+						}
+					},
+					"030":{
+						"value":"$color.blue.metodHSL.040",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"lch"
+								}
+							}
+						}
+					},
+					"040":{
+						"value":"$color.blue.metodHSL.050",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"lch"
+								}
+							}
+						}
+					},
+					"050":{
+						"value":"hsla($other.hue.blue, 56%, 56%, 1)",
+						"type":"color"
+					},
+					"060":{
+						"value":"$color.blue.metodHSL.050",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"lch"
+								}
+							}
+						}
+					},
+					"070":{
+						"value":"$color.blue.metodHSL.060",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"lch"
+								}
+							}
+						}
+					},
+					"080":{
+						"value":"$color.blue.metodHSL.070",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"lch"
+								}
+							}
+						}
+					},
+					"090":{
+						"value":"$color.blue.metodHSL.080",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"lch"
+								}
+							}
+						}
+					},
+					"100":{
+						"value":"$color.blue.metodHSL.090",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"lch"
+								}
 							}
 						}
 					}
 				},
-				"020":{
-					"value":"$color.blue.metodHSL.030",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"hsl"
+				"metodP3":{
+					"000":{
+						"value":"$color.blue.metodHSL.010",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"p3"
+								}
+							}
+						}
+					},
+					"010":{
+						"value":"$color.blue.metodHSL.020",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"p3"
+								}
+							}
+						}
+					},
+					"020":{
+						"value":"$color.blue.metodHSL.030",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"p3"
+								}
+							}
+						}
+					},
+					"030":{
+						"value":"$color.blue.metodHSL.040",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"p3"
+								}
+							}
+						}
+					},
+					"040":{
+						"value":"$color.blue.metodHSL.050",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"p3"
+								}
+							}
+						}
+					},
+					"050":{
+						"value":"hsla($other.hue.blue, 56%, 56%, 1)",
+						"type":"color"
+					},
+					"060":{
+						"value":"$color.blue.metodHSL.050",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"p3"
+								}
+							}
+						}
+					},
+					"070":{
+						"value":"$color.blue.metodHSL.060",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"p3"
+								}
+							}
+						}
+					},
+					"080":{
+						"value":"$color.blue.metodHSL.070",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"p3"
+								}
+							}
+						}
+					},
+					"090":{
+						"value":"$color.blue.metodHSL.080",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"p3"
+								}
+							}
+						}
+					},
+					"100":{
+						"value":"$color.blue.metodHSL.090",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"p3"
+								}
 							}
 						}
 					}
 				},
-				"030":{
-					"value":"$color.blue.metodHSL.040",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"hsl"
+				"metodSRGB":{
+					"000":{
+						"value":"$color.blue.metodHSL.010",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"srgb"
+								}
 							}
 						}
-					}
-				},
-				"040":{
-					"value":"$color.blue.metodHSL.050",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"hsl"
+					},
+					"010":{
+						"value":"$color.blue.metodHSL.020",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"srgb"
+								}
 							}
 						}
-					}
-				},
-				"050":{
-					"value":"hsla($other.hue.blue, 56%, 56%, 1)",
-					"type":"color"
-				},
-				"060":{
-					"value":"$color.blue.metodHSL.050",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"hsl"
+					},
+					"020":{
+						"value":"$color.blue.metodHSL.030",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"srgb"
+								}
 							}
 						}
-					}
-				},
-				"070":{
-					"value":"$color.blue.metodHSL.060",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"hsl"
+					},
+					"030":{
+						"value":"$color.blue.metodHSL.040",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"srgb"
+								}
 							}
 						}
-					}
-				},
-				"080":{
-					"value":"$color.blue.metodHSL.070",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"hsl"
+					},
+					"040":{
+						"value":"$color.blue.metodHSL.050",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "lighten",
+									"value":"$other.factor.week",
+									"space":"srgb"
+								}
 							}
 						}
-					}
-				},
-				"090":{
-					"value":"$color.blue.metodHSL.080",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"hsl"
+					},
+					"050":{
+						"value":"hsla($other.hue.blue, 56%, 56%, 1)",
+						"type":"color"
+					},
+					"060":{
+						"value":"$color.blue.metodHSL.050",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"srgb"
+								}
 							}
 						}
-					}
-				},
-				"100":{
-					"value":"$color.blue.metodHSL.090",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"hsl"
+					},
+					"070":{
+						"value":"$color.blue.metodHSL.060",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"srgb"
+								}
 							}
 						}
-					}
-				}
-			},
-			"metodLCH":{
-				"000":{
-					"value":"$color.blue.metodHSL.010",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"lch"
+					},
+					"080":{
+						"value":"$color.blue.metodHSL.070",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"srgb"
+								}
 							}
 						}
-					}
-				},
-				"010":{
-					"value":"$color.blue.metodHSL.020",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"lch"
+					},
+					"090":{
+						"value":"$color.blue.metodHSL.080",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"srgb"
+								}
 							}
 						}
-					}
-				},
-				"020":{
-					"value":"$color.blue.metodHSL.030",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"lch"
-							}
-						}
-					}
-				},
-				"030":{
-					"value":"$color.blue.metodHSL.040",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"lch"
-							}
-						}
-					}
-				},
-				"040":{
-					"value":"$color.blue.metodHSL.050",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"lch"
-							}
-						}
-					}
-				},
-				"050":{
-					"value":"hsla($other.hue.blue, 56%, 56%, 1)",
-					"type":"color"
-				},
-				"060":{
-					"value":"$color.blue.metodHSL.050",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"lch"
-							}
-						}
-					}
-				},
-				"070":{
-					"value":"$color.blue.metodHSL.060",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"lch"
-							}
-						}
-					}
-				},
-				"080":{
-					"value":"$color.blue.metodHSL.070",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"lch"
-							}
-						}
-					}
-				},
-				"090":{
-					"value":"$color.blue.metodHSL.080",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"lch"
-							}
-						}
-					}
-				},
-				"100":{
-					"value":"$color.blue.metodHSL.090",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"lch"
-							}
-						}
-					}
-				}
-			},
-			"metodP3":{
-				"000":{
-					"value":"$color.blue.metodHSL.010",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"p3"
-							}
-						}
-					}
-				},
-				"010":{
-					"value":"$color.blue.metodHSL.020",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"p3"
-							}
-						}
-					}
-				},
-				"020":{
-					"value":"$color.blue.metodHSL.030",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"p3"
-							}
-						}
-					}
-				},
-				"030":{
-					"value":"$color.blue.metodHSL.040",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"p3"
-							}
-						}
-					}
-				},
-				"040":{
-					"value":"$color.blue.metodHSL.050",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"p3"
-							}
-						}
-					}
-				},
-				"050":{
-					"value":"hsla($other.hue.blue, 56%, 56%, 1)",
-					"type":"color"
-				},
-				"060":{
-					"value":"$color.blue.metodHSL.050",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"p3"
-							}
-						}
-					}
-				},
-				"070":{
-					"value":"$color.blue.metodHSL.060",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"p3"
-							}
-						}
-					}
-				},
-				"080":{
-					"value":"$color.blue.metodHSL.070",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"p3"
-							}
-						}
-					}
-				},
-				"090":{
-					"value":"$color.blue.metodHSL.080",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"p3"
-							}
-						}
-					}
-				},
-				"100":{
-					"value":"$color.blue.metodHSL.090",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"p3"
-							}
-						}
-					}
-				}
-			},
-			"metodSRGB":{
-				"000":{
-					"value":"$color.blue.metodHSL.010",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"srgb"
-							}
-						}
-					}
-				},
-				"010":{
-					"value":"$color.blue.metodHSL.020",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"srgb"
-							}
-						}
-					}
-				},
-				"020":{
-					"value":"$color.blue.metodHSL.030",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"srgb"
-							}
-						}
-					}
-				},
-				"030":{
-					"value":"$color.blue.metodHSL.040",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"srgb"
-							}
-						}
-					}
-				},
-				"040":{
-					"value":"$color.blue.metodHSL.050",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "lighten",
-								"value":"$other.factor.week",
-								"space":"srgb"
-							}
-						}
-					}
-				},
-				"050":{
-					"value":"hsla($other.hue.blue, 56%, 56%, 1)",
-					"type":"color"
-				},
-				"060":{
-					"value":"$color.blue.metodHSL.050",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"srgb"
-							}
-						}
-					}
-				},
-				"070":{
-					"value":"$color.blue.metodHSL.060",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"srgb"
-							}
-						}
-					}
-				},
-				"080":{
-					"value":"$color.blue.metodHSL.070",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"srgb"
-							}
-						}
-					}
-				},
-				"090":{
-					"value":"$color.blue.metodHSL.080",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"srgb"
-							}
-						}
-					}
-				},
-				"100":{
-					"value":"$color.blue.metodHSL.090",
-					"type":"color",
-					"$extensions": {
-						"studio.tokens":{
-							"modify":{
-								"type": "darken",
-								"value":"$other.factor.week",
-								"space":"srgb"
+					},
+					"100":{
+						"value":"$color.blue.metodHSL.090",
+						"type":"color",
+						"$extensions": {
+							"studio.tokens":{
+								"modify":{
+									"type": "darken",
+									"value":"$other.factor.week",
+									"space":"srgb"
+								}
 							}
 						}
 					}
@@ -578,4 +577,6 @@
 			}
 		}
 	}
+
+	
 }
