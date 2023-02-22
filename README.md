@@ -13,7 +13,7 @@ My goal is to create automated system design for products such as websites, mobi
 
 > <br> You can see my works and my social network:      
 <br>
- [![My Site sobol.studio](/assets/site.svg)](http://sobol.studio)    [![My Behance](/assets/behance.svg)](https://www.behance.net/sobolew)    [![My twitter](/assets/twitter.svg)](https://twitter.com/sobol_andy)    [![My telegram](/assets/telegram.svg)](http://t.me/AndySobol)  
+ [![My Site sobol.studio](/assets/site.svg)](https://github.com/AndySobol/sobolstudio/blob/main/assets/site.svg)    [![My Behance](https://github.com/AndySobol/sobolstudio/blob/main/assets/behance.svg)](https://www.behance.net/sobolew)    [![My twitter](https://github.com/AndySobol/sobolstudio/blob/main/assets/twitter.svg)](https://twitter.com/sobol_andy)    [![My telegram](https://github.com/AndySobol/sobolstudio/blob/main/assets/telegram.svg)](http://t.me/AndySobol)  
 <br>
 <br>
 
@@ -27,16 +27,16 @@ My goal is to create automated system design for products such as websites, mobi
 
 This project was developed for sobol.studio. The project includes style configurations for working in a portfolio and has several projects such as: 
 
-- 🖿 Mixcart 
-- 🖿 Bloggist
-- 🖿 Fitmost  
-- 🖿 The First Space  
-- 🖿 Petdoctor  
-- 🖿 Liga stavok 
-- 🖿 Bork
-- 🖿 Auto All
-- 🖿 Cripto Fly
-- 🖿 TradeIN
+- Mixcart 
+- Bloggist
+- Fitmost  
+- The First Space  
+- Petdoctor  
+- Liga stavok 
+- Bork
+- Auto All
+- Cripto Fly
+- TradeIN
 
 For all these projects, configuration files are written that define styles. 
 These tokens connect to projects in [Figma App ](https://www.figma.com) and work with [Tokens Studio ](https://github.com/tokens-studio/figma-plugin) plugin.
