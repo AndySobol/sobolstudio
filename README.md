@@ -11,9 +11,9 @@ My goal is to create automated system design for products such as websites, mobi
 <br>
 
 
-> <br> You can see my works and my social network:      
-<br>
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")    [![My Behance](/assets/behance.png)](https://www.behance.net/sobolew)    [![My twitter](/assets/twitter.png)](https://twitter.com/sobol_andy)    [![My telegram](/assets/telegram.png)](http://t.me/AndySobol)  
+You can see my works and my social network:      
+
+ [![My Site sobol.studio](/assets/site.svg)](https://sobol.studio)    [![My Behance](/assets/behance.svg)](https://www.behance.net/sobolew)    [![My twitter](/assets/twitter.svg)](https://twitter.com/sobol_andy)    [![My telegram](/assets/telegram.svg)](http://t.me/AndySobol)  
 <br>
 <br>
 
