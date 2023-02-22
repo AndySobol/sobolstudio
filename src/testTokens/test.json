@@ -38,7 +38,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"hsl"
 								}
 							}
@@ -51,7 +51,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"hsl"
 								}
 							}
@@ -64,7 +64,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"hsl"
 								}
 							}
@@ -77,7 +77,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"hsl"
 								}
 							}
@@ -90,14 +90,14 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"hsl"
 								}
 							}
 						}
 					},
 					"050":{
-						"value":"hsla($other.hue.blue, 56%, 56%, 1)",
+						"value":"hsla($hue.blue, 56%, 56%, 1)",
 						"type":"color"
 					},
 					"060":{
@@ -107,7 +107,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"hsl"
 								}
 							}
@@ -120,7 +120,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"hsl"
 								}
 							}
@@ -133,7 +133,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"hsl"
 								}
 							}
@@ -146,7 +146,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"hsl"
 								}
 							}
@@ -159,7 +159,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"hsl"
 								}
 							}
@@ -174,7 +174,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"lch"
 								}
 							}
@@ -187,7 +187,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"lch"
 								}
 							}
@@ -200,7 +200,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"lch"
 								}
 							}
@@ -213,7 +213,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"lch"
 								}
 							}
@@ -226,14 +226,14 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"lch"
 								}
 							}
 						}
 					},
 					"050":{
-						"value":"hsla($other.hue.blue, 56%, 56%, 1)",
+						"value":"hsla($hue.blue, 56%, 56%, 1)",
 						"type":"color"
 					},
 					"060":{
@@ -243,7 +243,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"lch"
 								}
 							}
@@ -256,7 +256,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"lch"
 								}
 							}
@@ -269,7 +269,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"lch"
 								}
 							}
@@ -282,7 +282,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"lch"
 								}
 							}
@@ -295,7 +295,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"lch"
 								}
 							}
@@ -310,7 +310,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"p3"
 								}
 							}
@@ -323,7 +323,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"p3"
 								}
 							}
@@ -336,7 +336,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"p3"
 								}
 							}
@@ -349,7 +349,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"p3"
 								}
 							}
@@ -362,14 +362,14 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"p3"
 								}
 							}
 						}
 					},
 					"050":{
-						"value":"hsla($other.hue.blue, 56%, 56%, 1)",
+						"value":"hsla($hue.blue, 56%, 56%, 1)",
 						"type":"color"
 					},
 					"060":{
@@ -379,7 +379,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"p3"
 								}
 							}
@@ -392,7 +392,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"p3"
 								}
 							}
@@ -405,7 +405,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"p3"
 								}
 							}
@@ -418,7 +418,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"p3"
 								}
 							}
@@ -431,7 +431,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"p3"
 								}
 							}
@@ -446,7 +446,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"srgb"
 								}
 							}
@@ -459,7 +459,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"srgb"
 								}
 							}
@@ -472,7 +472,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"srgb"
 								}
 							}
@@ -485,7 +485,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"srgb"
 								}
 							}
@@ -498,14 +498,14 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "lighten",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"srgb"
 								}
 							}
 						}
 					},
 					"050":{
-						"value":"hsla($other.hue.blue, 56%, 56%, 1)",
+						"value":"hsla($hue.blue, 56%, 56%, 1)",
 						"type":"color"
 					},
 					"060":{
@@ -515,7 +515,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"srgb"
 								}
 							}
@@ -528,7 +528,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"srgb"
 								}
 							}
@@ -541,7 +541,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"srgb"
 								}
 							}
@@ -554,7 +554,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"srgb"
 								}
 							}
@@ -567,7 +567,7 @@
 							"studio.tokens":{
 								"modify":{
 									"type": "darken",
-									"value":"$other.factor.week",
+									"value":"$factor.week",
 									"space":"srgb"
 								}
 							}
