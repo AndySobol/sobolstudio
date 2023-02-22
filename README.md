@@ -1,6 +1,6 @@
 #  👋 Hi  ![](/assets/avatar.png) I'm Andy Sobol 
 
-> I'm a product designer, researching user experience (UX) and developing a user interface (UI). 
+I'm a product designer, researching user experience (UX) and developing a user interface (UI). 
 
 <br>
 
