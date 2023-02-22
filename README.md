@@ -13,7 +13,7 @@ My goal is to create automated system design for products such as websites, mobi
 
 > <br> You can see my works and my social network:      
 <br>
- [![My Site sobol.studio](/assets/site.svg)](https://github.com/AndySobol/sobolstudio/blob/main/assets/site.svg)    [![My Behance](https://github.com/AndySobol/sobolstudio/blob/main/assets/behance.svg)](https://www.behance.net/sobolew)    [![My twitter](https://github.com/AndySobol/sobolstudio/blob/main/assets/twitter.svg)](https://twitter.com/sobol_andy)    [![My telegram](https://github.com/AndySobol/sobolstudio/blob/main/assets/telegram.svg)](http://t.me/AndySobol)  
+ [![My Site sobol.studio](/assets/site.png)](https://sobol.studio)    [![My Behance](/assets/behance.png)](https://www.behance.net/sobolew)    [![My twitter](/assets/twitter.png)](https://twitter.com/sobol_andy)    [![My telegram](/assets/telegram.png)](http://t.me/AndySobol)  
 <br>
 <br>
 
